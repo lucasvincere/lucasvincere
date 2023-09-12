@@ -9,3 +9,6 @@
 
 ### IDE:
 [![My Skills](https://skillicons.dev/icons?i=vscode,codepen)](https://skillicons.dev)
+
+### Platforms/Softwares:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,docker,heroku,nginx,wordpress)](https://skillicons.dev)
