@@ -17,4 +17,4 @@
 ### Platforms/Softwares:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,docker,heroku,nginx,wordpress)](https://skillicons.dev)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316cz5ojj4qfpjpsgfoobtvrst7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=316cz5ojj4qfpjpsgfoobtvrst7u&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)]]
