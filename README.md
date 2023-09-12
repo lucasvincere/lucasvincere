@@ -17,7 +17,5 @@
 
 <div display="flex" align="center">
   <h1>asdsadsa </h1>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
 </div>
