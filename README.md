@@ -19,10 +19,12 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,docker,heroku,nginx,wordpress)](https://skillicons.dev)
 
 #
-### Design Tools:
+### Visual/Audio Design Tools & Softwares:
+
+[![My Skills](https://skillicons.dev/icons?i=ps,xd,ae)](https://skillicons.dev)
+
 <div display="flex">
 <img src="./figma.svg" width="40"/>
 <img src="./davinci.svg" width="40"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,xd,ae)](https://skillicons.dev)
