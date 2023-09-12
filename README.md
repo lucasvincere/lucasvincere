@@ -24,4 +24,5 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img src="./figma.svg" width="40"/>
 <img src="./davinci.svg" width="40"/>
 </div>
+
 [![My Skills](https://skillicons.dev/icons?i=ps,xd,ae)](https://skillicons.dev)
