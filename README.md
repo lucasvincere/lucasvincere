@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,docker,heroku,nginx,wordpress)](https://skillicons.dev)
 
 <div display="flex" align="center">
-  <div font-size="100px">asdsadsa </div>
+  <h1>asdsadsa </h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
