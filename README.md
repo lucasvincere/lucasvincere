@@ -1,12 +1,8 @@
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-<img width="50" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-<img width="50" src="https://skillicons.dev/icons?i=git" />
-
-## Hello 👋, I'm Lucas, a.k.a Frenze.
+### Hello 👋, I'm Lucas, a.k.a Frenze.
 Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
+
+#
 #### Cloud Computing Knowledge:
-
-
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=aws" />
 <img width="30" src="https://skillicons.dev/icons?i=gcp" />
