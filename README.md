@@ -1,5 +1,6 @@
-# Hello 👋, I'm Lucas, a.k.a Frenze.
-
+## Hello 👋, I'm Lucas, a.k.a Frenze.
+Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
+#
 ### Cloud computing Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 > [!NOTE]
