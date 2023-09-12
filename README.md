@@ -15,7 +15,8 @@
 ### Platforms/Softwares:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,docker,heroku,nginx,wordpress)](https://skillicons.dev)
 
-<div align="center">
+<div display="flex" align="center">
+  <span>asdsadsadsa </span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
