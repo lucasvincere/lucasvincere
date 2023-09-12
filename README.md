@@ -9,10 +9,9 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=azure" />
 </div>
 
-
 > [!NOTE]
 > Great Knowledge in Instance Deploying, Servers, React/Next Projects, Game-Servers, custom Firewalls and etc...
-
+#
 #### Languages I know:
 
 <div display="flex">
@@ -25,6 +24,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=svg" />
 </div>
 
+#
 #### Libraries/Frameworks:
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=express" />
@@ -36,6 +36,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
+#
 #### IDE:
 
 <div display="flex">
@@ -43,6 +44,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=codepen" />
 </div>
 
+#
 #### Platforms/Softwares:
 
 <div display="flex">
@@ -55,6 +57,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=wordpress" />
 </div>
 
+#
 #### Visual/Audio Design Tools & Softwares:
 
 <div display="flex">
