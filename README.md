@@ -59,7 +59,6 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=wordpress" />
 </div>
 
-#
 ### Visual/Audio Design Tools & Softwares:
 
 <div display="flex">
