@@ -5,9 +5,14 @@
 ## Hello 👋, I'm Lucas, a.k.a Frenze.
 Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
 #### Cloud Computing Knowledge:
+
+
+<div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=aws" />
 <img width="30" src="https://skillicons.dev/icons?i=gcp" />
 <img width="30" src="https://skillicons.dev/icons?i=azure" />
+</div>
+
 
 > [!NOTE]
 > Great Knowledge in Instance Deploying, Servers, React/Next Projects, Game-Servers, custom Firewalls and etc...
