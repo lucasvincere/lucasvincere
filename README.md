@@ -6,3 +6,6 @@
 
 ### Librarys/Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=express,jquery,react,nextjs,electron,sqlite,mysql)](https://skillicons.dev)
+
+### IDE:
+[![My Skills](https://skillicons.dev/icons?i=vscode,codepen)](https://skillicons.dev)
