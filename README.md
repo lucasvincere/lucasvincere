@@ -3,7 +3,7 @@
 ### Cloud computing Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 > [!IMPORTANT]
-> Great Knowledge in Instance Deploying, Services(servers,React/Next Projects, Game-Servers, custom Firewalls and etc...).
+> Great Knowledge in Instance Deploying, Servers, React/Next Projects, Game-Servers, custom Firewalls and etc...
 
 ### Languages i know:
 [![My Skills](https://skillicons.dev/icons?i=js,py,lua,cs,html,css,svg)](https://skillicons.dev)
