@@ -1,4 +1,4 @@
-
+# Hello 👋, I'm Lucas, a.k.a Frenze.
 
 ### Cloud computing Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
