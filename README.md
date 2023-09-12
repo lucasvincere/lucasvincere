@@ -20,4 +20,4 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./figma.svg)
 
-<img src=".figma.svg" width="40"/>
+<img src="./figma.svg" width="40"/>
