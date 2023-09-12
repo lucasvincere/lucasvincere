@@ -13,7 +13,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 > [!NOTE]
 > Great Knowledge in Instance Deploying, Servers, React/Next Projects, Game-Servers, custom Firewalls and etc...
 
-### Languages I know:
+#### Languages I know:
 
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=js" />
@@ -25,7 +25,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=svg" />
 </div>
 
-### Libraries/Frameworks:
+#### Libraries/Frameworks:
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=express" />
 <img width="30" src="https://skillicons.dev/icons?i=jquery" />
@@ -36,14 +36,14 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
-### IDE:
+#### IDE:
 
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=vscode" />
 <img width="30" src="https://skillicons.dev/icons?i=codepen" />
 </div>
 
-### Platforms/Softwares:
+#### Platforms/Softwares:
 
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=mongodb" />
@@ -55,7 +55,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=wordpress" />
 </div>
 
-### Visual/Audio Design Tools & Softwares:
+#### Visual/Audio Design Tools & Softwares:
 
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=ps" />
