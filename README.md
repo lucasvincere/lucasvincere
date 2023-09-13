@@ -25,9 +25,10 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
       <img width="30" src="https://skillicons.dev/icons?i=css" />
       <img width="30" src="https://skillicons.dev/icons?i=svg" />
     </div>
-  </div>
+</div>
 
-  <div>
+#
+ <div>
     Librarys/Frameworks i've worked:
     <div style="display: flex;">
       <img width="30" src="https://skillicons.dev/icons?i=express" />
@@ -39,8 +40,8 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
       <img width="30" src="https://skillicons.dev/icons?i=mysql" />
     </div>
   </div>
-</div>
 
+  
 #
 #### IDE:
 
