@@ -4,12 +4,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" href="instagram.com/lucasfrenze" src="./instagram.svg" />
 
 #
-#### Cloud Computing Knowledge:
-<div display="flex">
-<img width="30" src="https://skillicons.dev/icons?i=aws" />
-<img width="30" src="https://skillicons.dev/icons?i=gcp" />
-<img width="30" src="https://skillicons.dev/icons?i=azure" />
-</div>
+#### Languages/Softwares/Tools/Librarys i've worked with:
 
 > [!NOTE]
 > Great Knowledge in a lot of resources and areas, this was achieved because of the needed i had in projects where i need more knowledge, and suddenly i just learned too much xd...
