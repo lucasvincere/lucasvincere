@@ -15,6 +15,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <div style="display: flex; justify-content: space-between;">
   
   <div>
+    Languages i know:
     <div style="display: flex;">
       <img width="30" src="https://skillicons.dev/icons?i=js" />
       <img width="30" src="https://skillicons.dev/icons?i=py" />
@@ -27,6 +28,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   </div>
 
   <div>
+    Librarys/Frameworks i've worked:
     <div style="display: flex;">
       <img width="30" src="https://skillicons.dev/icons?i=express" />
       <img width="30" src="https://skillicons.dev/icons?i=jquery" />
