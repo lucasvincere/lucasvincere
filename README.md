@@ -24,9 +24,6 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=css" />
 <img width="30" src="https://skillicons.dev/icons?i=svg" />
 </div>
-
-#
-#### Libraries/Frameworks:
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=express" />
 <img width="30" src="https://skillicons.dev/icons?i=jquery" />
@@ -37,6 +34,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=mysql" />
 </div>
 </div>
+
 #
 #### IDE:
 
