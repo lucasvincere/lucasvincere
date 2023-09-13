@@ -11,13 +11,10 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 
 > [!NOTE]
 > Great Knowledge in Instance Deploying, Servers, React/Next Projects, Game-Servers, custom Firewalls and etc...
+> 
 <div style="display: flex; justify-content: space-between;">
-  <!-- Left Section -->
+  
   <div>
-
-    #
-    #### Languages I know:
-
     <div style="display: flex;">
       <img width="30" src="https://skillicons.dev/icons?i=js" />
       <img width="30" src="https://skillicons.dev/icons?i=py" />
@@ -27,14 +24,9 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
       <img width="30" src="https://skillicons.dev/icons?i=css" />
       <img width="30" src="https://skillicons.dev/icons?i=svg" />
     </div>
-
   </div>
 
-  <!-- Right Section -->
   <div>
-
-    #### Libraries/Frameworks:
-
     <div style="display: flex;">
       <img width="30" src="https://skillicons.dev/icons?i=express" />
       <img width="30" src="https://skillicons.dev/icons?i=jquery" />
