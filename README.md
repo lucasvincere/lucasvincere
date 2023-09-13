@@ -5,12 +5,6 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 
 #
 #### Languages/Softwares/Tools/Librarys i've worked with:
-
-> [!NOTE]
-> Great Knowledge in a lot of resources and areas, this was achieved because of the needed i had in projects where i need more knowledge, and suddenly i just learned too much xd...
-#
-
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   
   <!-- Cloud Computing Knowledge -->
@@ -55,5 +49,9 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   [<img width="30" src="https://skillicons.dev/icons?i=xd">](https://www.adobe.com/products/xd.html)
   [<img width="30" src="https://skillicons.dev/icons?i=ae">](https://www.adobe.com/products/aftereffects.html)
 </div>
+
+> [!NOTE]
+> Great Knowledge in a lot of resources and areas, this was achieved because of the needed i had in projects where i need more knowledge, and suddenly i just learned too much xd...
+#
 
 
