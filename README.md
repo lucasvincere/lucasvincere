@@ -52,7 +52,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 </div>
 
 > [!NOTE]
-> I have extensive knowledge in various areas and resources, acquired out of necessity in projects where I had to learn almost everything to complete them 💪.
+> I have extensive knowledge in various areas and resources, acquired out of necessity in projects where I had to learn almost everything to complete them 💪
 #
 
 
