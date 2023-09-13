@@ -12,7 +12,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 > [!NOTE]
 > Great Knowledge in Instance Deploying, Servers, React/Next Projects, Game-Servers, custom Firewalls and etc...
 > 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; row-gap="20px"; >
   
   <div>
     Languages i know:
