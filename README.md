@@ -34,6 +34,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   <!-- IDE -->
   [<img width="30" src="https://skillicons.dev/icons?i=vscode">](https://code.visualstudio.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=codepen">](https://codepen.io/)
+  [<img width="30" src="https://skillicons.dev/icons?i=codepen">](https://codepen.io/)
 
   <!-- Platforms/Softwares -->
   [<img width="30" src="https://skillicons.dev/icons?i=mongodb">](https://www.mongodb.com/)
