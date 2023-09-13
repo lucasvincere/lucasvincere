@@ -1,6 +1,8 @@
 ### Hello 👋, I'm Lucas, a.k.a Frenze.
 Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
 
+<img width="30" href="instagram.com/lucasfrenze" src="./instagram.svg" />
+
 #
 #### Cloud Computing Knowledge:
 <div display="flex">
