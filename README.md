@@ -14,6 +14,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 #
 #### Languages I know:
 
+<div display='flex' margin='20px'>
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=js" />
 <img width="30" src="https://skillicons.dev/icons?i=py" />
@@ -35,7 +36,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=sqlite" />
 <img width="30" src="https://skillicons.dev/icons?i=mysql" />
 </div>
-
+</div>
 #
 #### IDE:
 
