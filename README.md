@@ -79,7 +79,9 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  
   <!-- Cloud Computing Knowledge -->
+  
   [<img width="30" src="https://skillicons.dev/icons?i=aws">](https://aws.amazon.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=gcp">](https://cloud.google.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=azure">](https://azure.microsoft.com/)
