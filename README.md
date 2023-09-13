@@ -14,16 +14,6 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 #
 #### Languages I know:
 
-<div display='flex' margin='20px'>
-<div display="flex">
-<img width="30" src="https://skillicons.dev/icons?i=js" />
-<img width="30" src="https://skillicons.dev/icons?i=py" />
-<img width="30" src="https://skillicons.dev/icons?i=lua" />
-<img width="30" src="https://skillicons.dev/icons?i=cs" />
-<img width="30" src="https://skillicons.dev/icons?i=html" />
-<img width="30" src="https://skillicons.dev/icons?i=css" />
-<img width="30" src="https://skillicons.dev/icons?i=svg" />
-</div>
 <div display="flex">
 <img width="30" src="https://skillicons.dev/icons?i=express" />
 <img width="30" src="https://skillicons.dev/icons?i=jquery" />
@@ -32,6 +22,15 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 <img width="30" src="https://skillicons.dev/icons?i=electron" />
 <img width="30" src="https://skillicons.dev/icons?i=sqlite" />
 <img width="30" src="https://skillicons.dev/icons?i=mysql" />
+
+  <div display="flex">
+<img width="30" src="https://skillicons.dev/icons?i=js" />
+<img width="30" src="https://skillicons.dev/icons?i=py" />
+<img width="30" src="https://skillicons.dev/icons?i=lua" />
+<img width="30" src="https://skillicons.dev/icons?i=cs" />
+<img width="30" src="https://skillicons.dev/icons?i=html" />
+<img width="30" src="https://skillicons.dev/icons?i=css" />
+<img width="30" src="https://skillicons.dev/icons?i=svg" />
 </div>
 </div>
 
