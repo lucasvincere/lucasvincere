@@ -35,7 +35,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   <!-- IDE -->
   [<img width="30" src="https://skillicons.dev/icons?i=vscode">](https://code.visualstudio.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=codepen">](https://codepen.io/)
-  [<img width="30" src="https://skillicons.dev/icons?i=codepen">](https://codepen.io/)
+  [<img width="30" src="./codesandbox.svg">](https://codesandbox.io/)
 
   <!-- Platforms/Softwares -->
   [<img width="30" src="https://skillicons.dev/icons?i=mongodb">](https://www.mongodb.com/)
@@ -52,7 +52,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   [<img width="30" src="./davinci.svg">](https://www.blackmagicdesign.com/products/davinciresolve/)
   [<img width="30" src="./figma.svg">](https://www.figma.com/)
   [<img width="30" src="./framer.svg">](https://www.framer.com/)
-  [<img width="30" src="./spline.png">](https://www.spline.design/)
+  [<img width="30" src="./spline.svg">](https://www.spline.design/)
   [<img width="30" src="./flstudio.svg">](https://www.image-line.com/)
 
   <!-- Visual/Audio Design Tools & Softwares -->
