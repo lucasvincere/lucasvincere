@@ -47,13 +47,24 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   [<img width="30" src="https://skillicons.dev/icons?i=wordpress">](https://wordpress.org/)
 
   <!-- Visual/Audio Design Tools & Softwares -->
-  [<img width="30" src="https://skillicons.dev/icons?i=ps">](https://www.adobe.com/products/photoshop.html)
-  [<img width="30" src="https://skillicons.dev/icons?i=xd">](https://www.adobe.com/products/xd.html)
-  [<img width="30" src="https://skillicons.dev/icons?i=ae">](https://www.adobe.com/products/aftereffects.html)
+
+  [<img width="30" src="./canva.svg">](https://www.canva.com/)
+  [<img width="30" src="./davinci.svg">](https://www.blackmagicdesign.com/products/davinciresolve/)
+  [<img width="30" src="./figma.svg">](https://www.figma.com/)
+  [<img width="30" src="./framer.svg">](https://www.framer.com/)
+  [<img width="30" src="./spline.svg">](https://www.spline.design/)
+  [<img width="30" src="./flstudio.svg">](https://www.image-line.com/)
+
+  <!-- Visual/Audio Design Tools & Softwares -->
+
+  [<img width="30" src="./adobe1.svg">](https://creativecloud.adobe.com/)
+  [<img width="30" src="./adobe2.svg">](https://www.adobe.com/products/photoshop.html)
+  [<img width="30" src="./adobe3.svg">](https://www.adobe.com/products/premiere.html)
+  [<img width="30" src="./adobe4.svg">](https://www.adobe.com/products/aftereffects.html)
+  [<img width="30" src="./adobe5.svg">](https://www.adobe.com/products/photoshop-lightroom.html)
+  [<img width="30" src="./adobe6.svg">](https://www.adobe.com/products/xd.html)
 </div>
 
 > [!NOTE]
 > I have extensive knowledge in various areas and resources, acquired out of necessity in projects where I had to learn almost everything to complete them 💪
 #
-
-
