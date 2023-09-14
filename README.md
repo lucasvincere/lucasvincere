@@ -7,8 +7,8 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 #### Active Projects (by me):
 [CorrigeABC](https://corrigeabc.com/).
 [EaseShare](https://easeshare.app/).
-[EaseShare](https://olimpushost.com/).
-[EaseShare](https://agenciagreater.com/).
+[OlimpusHost](https://olimpushost.com/).
+[AgenciaGreater](https://agenciagreater.com/).
 
 #
 #### Languages/Softwares/Tools/Librarys i've worked with:
