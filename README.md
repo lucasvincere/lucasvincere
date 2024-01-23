@@ -1,4 +1,4 @@
-### Hello 👋, I'm Lucas, a.k.a Frenze.
+### Hello 👋, I'm Lucas, a.k.a Vincere.
 Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
 🏅100+ Certificates (Alura,Udemy,Google,AWS,Azure)
 
@@ -6,9 +6,11 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 
 #### Active Projects (by me):
 [CorrigeABC](https://corrigeabc.com/).
-[EaseShare](https://easeshare.app/).
-[OlimpusHost](https://olimpushost.com/).
+[Texthance](https://texthance.com/).
+[Discoframe](https://texthance.com/).
 [AgenciaGreater](https://agenciagreater.com/).
+[OlimpusHost](https://olimpushost.com/).
+[EaseShare](https://easeshare.app/).
 
 #
 #### Languages/Softwares/Tools/Librarys i've worked with:
