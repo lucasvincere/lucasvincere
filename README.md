@@ -7,7 +7,7 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 #### Active Projects (by me):
 [CorrigeABC](https://corrigeabc.com/).
 [Texthance](https://texthance.com/).
-[Discoframe](https://texthance.com/).
+[Discoframe](https://discoframe.com/).
 [AgenciaGreater](https://agenciagreater.com/).
 [OlimpusHost](https://olimpushost.com/).
 [EaseShare](https://easeshare.app/).
