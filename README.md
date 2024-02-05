@@ -2,7 +2,7 @@
 Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
 🏅100+ Certificates (Alura,Udemy,Google,AWS,Azure)
 
-  [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasfrenze/)
+  [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasvincere/)
 
 #### Active Projects (by me):
 [CorrigeABC](https://corrigeabc.com/).
