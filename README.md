@@ -5,12 +5,12 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
   [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasvincere/)
 
 #### Active Projects (by me):
-[CorrigeABC](https://corrigeabc.com/).
-[Texthance](https://texthance.com/).
-[Discoframe](https://discoframe.com/).
+[FraseMix](https://frasemix.com/). - Stable
+[Texthance](https://texthance.com/). WIP
+[Discoframe](https://discoframe.com/). WIP
 [AgenciaGreater](https://agenciagreater.com/).
 [OlimpusHost](https://olimpushost.com/).
-[EaseShare](https://easeshare.app/).
+[EaseShare](https://easeshare.app/). WIP
 
 #
 #### Languages/Softwares/Tools/Librarys i've worked with:
