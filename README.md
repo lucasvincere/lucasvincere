@@ -6,10 +6,15 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 
 #### Active Projects (by me):
 [FraseMix](https://frasemix.com/). - Stable
+
 [Texthance](https://texthance.com/). WIP
+
 [Discoframe](https://discoframe.com/). WIP
+
 [AgenciaGreater](https://agenciagreater.com/).
+
 [OlimpusHost](https://olimpushost.com/).
+
 [EaseShare](https://easeshare.app/). WIP
 
 #
