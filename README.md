@@ -7,11 +7,11 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer, SEO Analyst and Audiovisu
 #### Projects (by me):
 [FraseMix](https://frasemix.com/). - First ever web app i built years ago, still free, i use it to normally practice new techs and etc.
 
-[Texthance]. (didn't worked out)
+[Texthance]. (didn't worked out) AI tool for quick text edit.
 
-[Discoframe] (didn't worked out)
+[Discoframe] (didn't worked out) SaaS for discord, bot.
 
-[AgenciaGreater] (didn't worked out)
+[AgenciaGreater] My own Design and Branding agency. Still active, i do some works when needed.
 
 [OlimpusHost] (didn't worked out)
 
