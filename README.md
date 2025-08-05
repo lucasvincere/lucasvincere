@@ -17,7 +17,7 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer, SEO Analyst and Audiovisu
 
 [EaseShare] (didn't worked out)
 
-[disgram.gg](https://disgram.gg/).
+[disgram.gg](https://disgram.gg/). Recent project, related to Discord platform. Disgram is a way for servers to advertise events, giveaways, their own guild and achievements.
 
 #
 #### Languages/Softwares/Tools/Librarys i've worked with:
