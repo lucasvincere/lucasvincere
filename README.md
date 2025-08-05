@@ -1,21 +1,23 @@
 ### Hello 👋, I'm Lucas, a.k.a Vincere.
-Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
-🏅100+ Certificates (Alura,Udemy,Google,AWS,Azure)
+Self-taught Full-Stack Dev, UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
+100+ Free and Paid Certificates from Alura, Udemy, Google, AWS, Azure.
 
   [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasvincere/)
 
-#### Active Projects (by me):
-[FraseMix](https://frasemix.com/). - Stable
+#### Projects (by me):
+[FraseMix](https://frasemix.com/). - First ever web app i built years ago, still free, i use it to normally practice new techs and etc.
 
-[Texthance](https://texthance.com/). WIP
+[Texthance]. (didn't worked out)
 
-[Discoframe](https://discoframe.com/). WIP
+[Discoframe] (didn't worked out)
 
-[AgenciaGreater](https://agenciagreater.com/).
+[AgenciaGreater] (didn't worked out)
 
-[OlimpusHost](https://olimpushost.com/).
+[OlimpusHost] (didn't worked out)
 
-[EaseShare](https://easeshare.app/). WIP
+[EaseShare] (didn't worked out)
+
+[disgram.gg](https://disgram.gg/).
 
 #
 #### Languages/Softwares/Tools/Librarys i've worked with:
@@ -79,5 +81,5 @@ Full-Stack DEV,  UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer
 </div>
 
 > [!NOTE]
-> I have extensive knowledge in various areas and resources, acquired out of necessity in projects where I had to learn almost everything to complete them 💪
+> I have extensive knowledge in various areas and resources, acquired out of necessity in projects where I had to learn almost everything to complete them
 #
