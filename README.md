@@ -1,11 +1,11 @@
 ### Hello 👋, I'm Lucas, a.k.a Vincere.
-Self-taught Full-Stack Dev, UX/UI & Branding Designer, SEO Analyst and Audiovisual Producer.
+Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 100+ Free and Paid Certificates from Alura, Udemy, Google, AWS, Azure.
 
   [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasvincere/)
 
 #### Projects (by me):
-[FraseMix](https://frasemix.com/). - First ever web app i built years ago, still free, i use it to normally practice new techs and etc.
+[FraseMix](https://frasemix.com/). - First ever project i built in 2022-2023, it has reached already 1k+ users.
 
 [Texthance]. (didn't worked out) AI tool for quick text edit.
 
