@@ -6,19 +6,16 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
   [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasvincere/)
 
 #### Projects (by me):
+[disgram.gg](https://disgram.gg/). Recent project, related to Discord platform. Disgram is a way for servers to advertise events, giveaways, their own guild and achievements.
 [FraseMix](https://frasemix.com/). - First ever project i built in 2022-2023, it has reached already 1k+ users.
 
+--deactivated
 [Texthance]. (didn't worked out) AI tool for quick text edit.
-
 [Discoframe] (didn't worked out) SaaS for discord, bot.
-
 [AgenciaGreater] My own Design and Branding agency. not active anymore.
-
 [OlimpusHost] (didn't worked out)
-
 [EaseShare] (didn't worked out)
 
-[disgram.gg](https://disgram.gg/). Recent project, related to Discord platform. Disgram is a way for servers to advertise events, giveaways, their own guild and achievements.
 
 #
 #### Current Stack forLanguages/Softwares/Tools/Librarys:
