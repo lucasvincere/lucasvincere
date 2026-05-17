@@ -21,10 +21,11 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 [disgram.gg](https://disgram.gg/). Recent project, related to Discord platform. Disgram is a way for servers to advertise events, giveaways, their own guild and achievements.
 
 #
-#### Languages/Softwares/Tools/Librarys i've worked with:
+#### Current Stack forLanguages/Softwares/Tools/Librarys:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   
   <!-- Cloud Computing Knowledge -->
+  [<img width="30" src="https://skillicons.dev/icons?i=cloudflare">](https://www.cloudflare.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=aws">](https://aws.amazon.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=gcp">](https://cloud.google.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=azure">](https://azure.microsoft.com/)
@@ -47,7 +48,6 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 
   <!-- Platforms/Softwares -->
   [<img width="30" src="https://skillicons.dev/icons?i=mongodb">](https://www.mongodb.com/)
-  [<img width="30" src="https://skillicons.dev/icons?i=cloudflare">](https://www.cloudflare.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=docker">](https://www.docker.com/)
   [<img width="30" src="https://skillicons.dev/icons?i=nginx">](https://www.nginx.com/)
 
