@@ -12,18 +12,18 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 
 --deactivated
 <div style="display: flex; flex-col: wrap; justify-content: center;">
-<span>
+<div>
 [Texthance]. (didn't worked out) AI tool for quick text edit.
-</span>
-<span>
+</div>
+<div>
 [AgenciaGreater] My own Design and Branding agency. not active anymore.
-</span>
-<span>
+</div>
+<div>
 [OlimpusHost] (didn't worked out)
-</span>
-<span>
+</div>
+<div>
 [EaseShare] (didn't worked out)
-</span>
+</div>
 </div>
 
 
