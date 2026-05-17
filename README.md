@@ -41,9 +41,9 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
   [<img width="30" src="https://skillicons.dev/icons?i=mysql">](https://www.mysql.com/)
 
   <!-- IDE -->
+  [<img width="30" src="https://skillicons.dev/icons?i=zed">](https://zed.dev/)
+  [<img width="30" src="https://skillicons.dev/icons?i=neovim">](https://neovim.io/)
   [<img width="30" src="https://skillicons.dev/icons?i=vscode">](https://code.visualstudio.com/)
-  [<img width="30" src="https://skillicons.dev/icons?i=codepen">](https://codepen.io/)
-  [<img width="30" src="./codesandbox.svg">](https://codesandbox.io/)
 
   <!-- Platforms/Softwares -->
   [<img width="30" src="https://skillicons.dev/icons?i=mongodb">](https://www.mongodb.com/)
