@@ -10,7 +10,7 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 
 [FraseMix](https://frasemix.com/). - First ever project i built in 2022-2023, it has reached already 1k+ users.
 
---deactivated
+
 <div style="display: flex; flex-col: wrap; justify-content: center;">
 <div>
 [Texthance]. (didn't worked out) AI tool for quick text edit.
