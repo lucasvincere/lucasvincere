@@ -1,6 +1,7 @@
 ### Hello 👋, I'm Lucas, a.k.a Vincere.
+
+WIP Software Architect.
 Self-taught Full-Stack Dev, UX/UI & Branding Designer.
-100+ Free and Paid Certificates from Alura, Udemy, Google, AWS, Azure.
 
   [<img width="30" src="./instagram.svg">](https://www.instagram.com/lucasvincere/)
 
@@ -11,7 +12,7 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 
 [Discoframe] (didn't worked out) SaaS for discord, bot.
 
-[AgenciaGreater] My own Design and Branding agency. Still active, i do some works when needed.
+[AgenciaGreater] My own Design and Branding agency. not active anymore.
 
 [OlimpusHost] (didn't worked out)
 
