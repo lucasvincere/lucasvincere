@@ -76,5 +76,5 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 </div>
 
 > [!NOTE]
-> You will probably ask why i don't have lots of repositorys here, honeslty, i've spent 99% of my time building my own projects directly, so i don't really got time to play with open source, but soon i will start to publish some stuff.
+> You will probably ask why i don't have lots of repositorys here, honestly, i've spent 99% of my time building my own projects directly, so i don't really got time to play with open source, but soon i will start to publish some stuff.
 #
