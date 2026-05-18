@@ -76,5 +76,5 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 </div>
 
 > [!NOTE]
-> I have extensive knowledge in various areas and resources, acquired out of necessity in projects where I had to learn almost everything to complete them
+> You will probably ask why i don't have lots of repositorys here, honeslty, i've spent 99% of my time building my own projects directly, so i don't really got time to play with open source, but soon i will start to publish some stuff.
 #
