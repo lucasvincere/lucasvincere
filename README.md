@@ -8,7 +8,7 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 
 
 
-<div style="display: hidden; flex-col: wrap; justify-content: center;">
+<!-- <div style="display: hidden; flex-col: wrap; justify-content: center;">
   <div>
 #### Projects (by me):
 [disgram.gg](https://disgram.gg/). Recent project, related to Discord platform. Disgram is a way for servers to advertise events, giveaways, their own guild and achievements.
@@ -28,7 +28,7 @@ Self-taught Full-Stack Dev, UX/UI & Branding Designer.
 <div>
 [EaseShare] (didn't worked out)
 </div>
-</div>
+</div> -->
 
 
 #
